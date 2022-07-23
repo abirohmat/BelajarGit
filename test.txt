@@ -1,1 +1,9 @@
 belajar
+
+git init
+git status
+git branch
+git add nama file
+git commit -m "nama pesan"
+git checkout -b "nama branch"
+git checkout "nama branch"
