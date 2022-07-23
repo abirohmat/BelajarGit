@@ -1,9 +1,10 @@
 belajar
 
 git init
-git status
-git branch
-git add nama file
-git commit -m "nama pesan"
-git checkout -b "nama branch"
-git checkout "nama branch"
+git status -> untuk cek status
+git branch -> untuk cek branch
+git add nama file -> untuk ke staging
+git commit -m "nama pesan" -> untuk commit
+git checkout -b "nama branch" -> untuk buat branch
+git checkout "nama branch" -> untuk pindah branch
+git merge master -> untuk masukan isi ke branch utama dr branch cabang
